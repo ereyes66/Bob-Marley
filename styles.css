@@ -1,0 +1,45 @@
+.title {
+    color: red;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.el {
+    color: powderblue;
+    background-color: red;
+    text-align: center;
+}
+
+.first {
+    color: green;
+    background-color: powderblue;
+}
+
+.mc {
+    color: powderblue;
+    background-color: red;
+    text-align: center;
+}
+
+.second {
+    color: green;
+    background-color: powderblue;
+}
+
+.id {
+    color: powderblue;
+    background-color: green;
+    text-align: center;
+}
+
+.third{
+    color: purple;
+    background-color: lightgreen;
+}
+
+body{
+background-image: url(https://thethaovanhoa.mediacdn.vn/thumb_w/480/2011/05/13/11/19/BobMarley.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
